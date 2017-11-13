@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[post]{{ site.baseurl }}{% post_url /_posts/2017-11-13-hello-jekyll %}
+[post]({{ site.baseurl }}{% post_url /_posts/2017-11-13-hello-jekyll %})
 
 
 
