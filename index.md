@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[2010-07-21-name-of-post]({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %})
+[editor on GitHub](https://github.com/xuejialing/xuejialing.github.io/edit/master/index.md)
+
+({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %})
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
