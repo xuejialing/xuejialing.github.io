@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[editor on GitHub](https://github.com/xuejialing/xuejialing.github.io/edit/master/index.md)
+[post]{{ site.baseurl }}{% post_url /_posts/2017-11-13-hello-jekyll %}
 
 
 
