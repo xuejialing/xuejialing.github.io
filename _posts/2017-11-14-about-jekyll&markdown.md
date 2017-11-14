@@ -1,3 +1,10 @@
+---
+layout: post
+title:  About Jekyll & Markdown
+date:   2017-11-14 13:40:50 +0800
+categories: jekyll update
+---
+
 ### Jekyll Install
 
 - github pages repository site expo(your username.github.io)
@@ -18,4 +25,6 @@ git push origin master
 ```
 - your username.github.io
 
-## It's done!
+### Markdown
+
+[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
