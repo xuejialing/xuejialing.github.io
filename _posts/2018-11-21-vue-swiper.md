@@ -40,6 +40,17 @@ data (){
 
 *备注：*
 + ! important ，可以更改默认的CSS样式优先级规则，使该条样式属性声明具有最高优先级，也就是相当于写在最下
++ chrome Network - Fast 3G  开启chrome 3g模式
++ chrome 插件  vue-devtools  查看components 结构
++ css抖动问题
+以下是stylus 语法
+```
+.wrapper
+    overflow: hidden
+    width:100%
+    height:0
+    padding-bottom:31.25%
+```
 
 
 
