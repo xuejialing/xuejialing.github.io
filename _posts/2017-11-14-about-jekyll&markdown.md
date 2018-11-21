@@ -8,7 +8,7 @@ categories: jekyll update
 ### Jekyll Install
 
 + 创建gitpages仓库 - github pages repository site expo(your username.github.io)
-+ 安装 ruby
++ 安装 ruby https://rubyinstaller.org/downloads/
 + 修改 gem 源 (gems.ruby-china.org 无效,改成了com)
 ```
 gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/

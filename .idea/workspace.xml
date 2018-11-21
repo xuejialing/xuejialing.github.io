@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a1d448-6f92-44fb-ae74-fe08817cb773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2017-11-14-about-jekyll&amp;markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-11-14-about-jekyll&amp;markdown.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -43,7 +42,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="57" />
-          <entry key="md" value="974" />
+          <entry key="md" value="979" />
           <entry key="xml" value="10" />
           <entry key="yml" value="52" />
         </counts>
@@ -51,7 +50,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="57" />
-          <entry key="PLAIN_TEXT" value="974" />
+          <entry key="PLAIN_TEXT" value="979" />
           <entry key="XML" value="10" />
           <entry key="YAML" value="52" />
         </counts>
@@ -90,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-14-about-jekyll&amp;markdown.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="171">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -170,7 +169,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="850" />
     <option name="y" value="63" />
     <option name="width" value="1915" />
@@ -237,12 +236,12 @@
       <workItem from="1542627881167" duration="3023000" />
       <workItem from="1542714595781" duration="990000" />
       <workItem from="1542718575985" duration="4113000" />
-      <workItem from="1542773401839" duration="2995000" />
+      <workItem from="1542773401839" duration="3604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11121000" />
+    <option name="totallyTimeSpent" value="11730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -328,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-14-about-jekyll&amp;markdown.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="171">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
