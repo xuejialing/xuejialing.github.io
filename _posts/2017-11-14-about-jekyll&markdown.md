@@ -7,23 +7,33 @@ categories: jekyll update
 
 ### Jekyll Install
 
-- github pages repository site expo(your username.github.io)
-- local terminal 
-
++ 创建gitpages仓库 - github pages repository site expo(your username.github.io)
++ 安装 ruby
++ 修改 gem 源 (gems.ruby-china.org 无效,改成了com)
 ```
-gem install bundler
+gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
+```
++ 安装 jekyll
+```
 gem install jekyll
 jekyll new username.github.io
 cd username.github.io
+```
++ 启动服务
+```
 jekyll serve
-git init 
+```
++ 提交到git仓库
+```
+git init
 git clone your repository site
-git add --all
+git add .
 git commit -m "initial commit"
 git push origin master
-
 ```
-- your username.github.io
++ 访问blog - your username.github.io
 
-### Markdown
+**备注：**
+_config.yml 修改jekyll配置,重启本地服务,直接修改_site/index.html 无效，_site 已经被gitignore不上传到创库，是自动生成的。
+## Markdown
 [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
