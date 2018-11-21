@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70a1d448-6f92-44fb-ae74-fe08817cb773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="70a1d448-6f92-44fb-ae74-fe08817cb773" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,7 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
-          <entry key="md" value="8" />
+          <entry key="md" value="10" />
           <entry key="xml" value="3" />
           <entry key="yml" value="1" />
         </counts>
@@ -34,7 +32,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="1" />
         </counts>
@@ -42,7 +40,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="57" />
-          <entry key="md" value="979" />
+          <entry key="md" value="1016" />
           <entry key="xml" value="10" />
           <entry key="yml" value="60" />
         </counts>
@@ -50,7 +48,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="57" />
-          <entry key="PLAIN_TEXT" value="979" />
+          <entry key="PLAIN_TEXT" value="1016" />
           <entry key="XML" value="10" />
           <entry key="YAML" value="60" />
         </counts>
@@ -71,17 +69,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-21-vue-swiper.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-21-vue-icons.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="174">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -99,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/_site/feed.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-667">
-              <caret column="455" lean-forward="true" selection-start-column="455" selection-end-column="455" />
+              <caret column="959" lean-forward="true" selection-start-column="959" selection-end-column="959" />
               <folding>
                 <element signature="e#879#883#0" expanded="true" />
                 <element signature="e#885#889#0" expanded="true" />
@@ -1132,6 +1130,7 @@
         <option value="$PROJECT_DIR$/_site/feed.xml" />
         <option value="$PROJECT_DIR$/_posts/2017-11-14-about-jekyll&amp;markdown.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-21-vue-icons.md" />
       </list>
     </option>
   </component>
@@ -1142,8 +1141,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="850" />
-    <option name="y" value="63" />
+    <option name="x" value="634" />
+    <option name="y" value="174" />
     <option name="width" value="1915" />
     <option name="height" value="780" />
   </component>
@@ -1208,12 +1207,12 @@
       <workItem from="1542627881167" duration="3023000" />
       <workItem from="1542714595781" duration="990000" />
       <workItem from="1542718575985" duration="4113000" />
-      <workItem from="1542773401839" duration="4236000" />
+      <workItem from="1542773401839" duration="5073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12362000" />
+    <option name="totallyTimeSpent" value="13199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1273,13 +1272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-21-vue-swiper.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-14-about-jekyll&amp;markdown.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1290,7 +1282,7 @@
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-667">
-          <caret column="455" lean-forward="true" selection-start-column="455" selection-end-column="455" />
+          <caret column="959" lean-forward="true" selection-start-column="959" selection-end-column="959" />
           <folding>
             <element signature="e#879#883#0" expanded="true" />
             <element signature="e#885#889#0" expanded="true" />
@@ -2271,8 +2263,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="579">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-21-vue-swiper.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-21-vue-icons.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
