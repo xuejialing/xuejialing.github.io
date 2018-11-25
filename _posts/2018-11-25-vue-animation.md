@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vue 学习笔记（十四）动画 transition slot
+title: vue 学习笔记（十五）动画 transition slot
 date: 2018-11-25 21:38:00 +0800
 categories: vue update
 ---

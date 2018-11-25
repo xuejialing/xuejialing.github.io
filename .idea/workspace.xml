@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a1d448-6f92-44fb-ae74-fe08817cb773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-25-vue-opacity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-25-vue-opacity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,7 +47,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="57" />
-          <entry key="md" value="1609" />
+          <entry key="md" value="1612" />
           <entry key="xml" value="10" />
           <entry key="yml" value="88" />
         </counts>
@@ -55,7 +55,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="57" />
-          <entry key="PLAIN_TEXT" value="1609" />
+          <entry key="PLAIN_TEXT" value="1612" />
           <entry key="XML" value="10" />
           <entry key="YAML" value="88" />
         </counts>
@@ -103,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="58">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -131,7 +131,7 @@
         <entry file="file://$PROJECT_DIR$/_site/feed.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6380">
-              <caret line="245" column="143" selection-start-line="245" selection-start-column="143" selection-end-line="245" selection-end-column="143" />
+              <caret line="256" column="592" selection-start-line="256" selection-start-column="592" selection-end-line="256" selection-end-column="592" />
             </state>
           </provider>
         </entry>
@@ -283,12 +283,12 @@
       <workItem from="1542800617245" duration="599000" />
       <workItem from="1542855275414" duration="6224000" />
       <workItem from="1542946534194" duration="2033000" />
-      <workItem from="1543140942471" duration="2312000" />
+      <workItem from="1543140942471" duration="2382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27691000" />
+    <option name="totallyTimeSpent" value="27761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -422,7 +422,7 @@
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6380">
-          <caret line="245" column="143" selection-start-line="245" selection-start-column="143" selection-end-line="245" selection-end-column="143" />
+          <caret line="256" column="592" selection-start-line="256" selection-start-column="592" selection-end-line="256" selection-end-column="592" />
         </state>
       </provider>
     </entry>
@@ -463,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="58">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
