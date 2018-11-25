@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a1d448-6f92-44fb-ae74-fe08817cb773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-23-vue-gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-23-vue-gallery.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,7 +45,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="57" />
-          <entry key="md" value="1548" />
+          <entry key="md" value="1564" />
           <entry key="xml" value="10" />
           <entry key="yml" value="88" />
         </counts>
@@ -53,7 +53,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="57" />
-          <entry key="PLAIN_TEXT" value="1548" />
+          <entry key="PLAIN_TEXT" value="1564" />
           <entry key="XML" value="10" />
           <entry key="YAML" value="88" />
         </counts>
@@ -92,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-vue-gallery.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="809">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="751">
+              <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -120,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/_site/feed.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6380">
-              <caret line="233" column="326" selection-start-line="233" selection-start-column="326" selection-end-line="233" selection-end-column="326" />
+              <caret line="241" column="326" selection-start-line="241" selection-start-column="326" selection-end-line="241" selection-end-column="326" />
             </state>
           </provider>
         </entry>
@@ -197,7 +197,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="631" />
     <option name="y" value="125" />
     <option name="width" value="1417" />
@@ -268,12 +268,12 @@
       <workItem from="1542800617245" duration="599000" />
       <workItem from="1542855275414" duration="6224000" />
       <workItem from="1542946534194" duration="2033000" />
-      <workItem from="1543140942471" duration="635000" />
+      <workItem from="1543140942471" duration="750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26014000" />
+    <option name="totallyTimeSpent" value="26129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -407,7 +407,7 @@
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6380">
-          <caret line="233" column="326" selection-start-line="233" selection-start-column="326" selection-end-line="233" selection-end-column="326" />
+          <caret line="241" column="326" selection-start-line="241" selection-start-column="326" selection-end-line="241" selection-end-column="326" />
         </state>
       </provider>
     </entry>
@@ -427,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-vue-gallery.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        <state relative-caret-position="751">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
         </state>
       </provider>
     </entry>

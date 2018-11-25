@@ -27,14 +27,18 @@ alias: {
 + gallery 布局、样式
 + swiper
 + swiper 页码
+```
 swiperOptions: {
 	paginationType: 'fraction'
 }
+```
 + 循环数据
 + 点击显示隐藏
 + 画廊宽度问题导致滑动问题  swiper 自我刷新
+```
 swiperOptions: {
 	observeParents: true,
 	observer: true
 }
+```
 + 点击关闭画廊
