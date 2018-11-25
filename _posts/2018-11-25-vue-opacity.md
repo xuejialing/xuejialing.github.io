@@ -1,7 +1,7 @@
 ---
 layout: post
 title: vue 学习笔记（十四）头部显隐
-date: 2018-11-23 14:06:00 +0800
+date: 2018-11-25 18:06:00 +0800
 categories: vue update
 ---
 + detail-header 分支
