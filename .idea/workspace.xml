@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70a1d448-6f92-44fb-ae74-fe08817cb773" name="Default Changelist" comment="" />
+    <list default="true" id="70a1d448-6f92-44fb-ae74-fe08817cb773" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-25-vue-opacity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-25-vue-opacity.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -43,7 +45,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="57" />
-          <entry key="md" value="1575" />
+          <entry key="md" value="1576" />
           <entry key="xml" value="10" />
           <entry key="yml" value="88" />
         </counts>
@@ -51,7 +53,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="57" />
-          <entry key="PLAIN_TEXT" value="1575" />
+          <entry key="PLAIN_TEXT" value="1576" />
           <entry key="XML" value="10" />
           <entry key="YAML" value="88" />
         </counts>
@@ -99,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-opacity.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="464">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -127,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/_site/feed.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6380">
-              <caret line="245" column="326" selection-start-line="245" selection-start-column="326" selection-end-line="245" selection-end-column="326" />
+              <caret line="239" column="143" selection-start-line="239" selection-start-column="143" selection-end-line="239" selection-end-column="143" />
             </state>
           </provider>
         </entry>
@@ -205,7 +207,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="598" />
     <option name="y" value="169" />
     <option name="width" value="1417" />
@@ -276,12 +278,12 @@
       <workItem from="1542800617245" duration="599000" />
       <workItem from="1542855275414" duration="6224000" />
       <workItem from="1542946534194" duration="2033000" />
-      <workItem from="1543140942471" duration="1435000" />
+      <workItem from="1543140942471" duration="1580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26814000" />
+    <option name="totallyTimeSpent" value="26959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -415,7 +417,7 @@
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6380">
-          <caret line="245" column="326" selection-start-line="245" selection-start-column="326" selection-end-line="245" selection-end-column="326" />
+          <caret line="239" column="143" selection-start-line="239" selection-start-column="143" selection-end-line="239" selection-end-column="143" />
         </state>
       </provider>
     </entry>
@@ -442,8 +444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-opacity.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="464">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
