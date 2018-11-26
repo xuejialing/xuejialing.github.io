@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a1d448-6f92-44fb-ae74-fe08817cb773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,15 +21,15 @@
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
-          <entry key="md" value="26" />
+          <entry key="md" value="28" />
           <entry key="vue" value="1" />
           <entry key="xml" value="3" />
           <entry key="yml" value="2" />
@@ -38,7 +38,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="PLAIN_TEXT" value="28" />
           <entry key="Vue.js" value="1" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="2" />
@@ -47,7 +47,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="57" />
-          <entry key="md" value="1612" />
+          <entry key="md" value="1749" />
           <entry key="xml" value="10" />
           <entry key="yml" value="88" />
         </counts>
@@ -55,7 +55,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="57" />
-          <entry key="PLAIN_TEXT" value="1612" />
+          <entry key="PLAIN_TEXT" value="1749" />
           <entry key="XML" value="10" />
           <entry key="YAML" value="88" />
         </counts>
@@ -64,24 +64,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-22-vue-better-scroll.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-22-vue-vuex.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-vue-gallery.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +82,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="261">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-26-docker-redis.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-26-vue-online.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="664">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -130,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/feed.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6380">
-              <caret line="256" column="592" selection-start-line="256" selection-start-column="592" selection-end-line="256" selection-end-column="592" />
+            <state relative-caret-position="7511">
+              <caret line="285" column="443" selection-start-line="285" selection-start-column="443" selection-end-line="285" selection-end-column="443" />
             </state>
           </provider>
         </entry>
@@ -203,6 +203,8 @@
         <option value="$PROJECT_DIR$/_posts/2018-11-25-vue-opacity.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-25-vue-animation.vue" />
         <option value="$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-26-docker-redis.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-26-vue-online.md" />
       </list>
     </option>
   </component>
@@ -213,8 +215,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="649" />
-    <option name="y" value="248" />
+    <option name="x" value="471" />
+    <option name="y" value="269" />
     <option name="width" value="1417" />
     <option name="height" value="799" />
   </component>
@@ -223,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,6 +246,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,12 +285,13 @@
       <workItem from="1542800617245" duration="599000" />
       <workItem from="1542855275414" duration="6224000" />
       <workItem from="1542946534194" duration="2033000" />
-      <workItem from="1543140942471" duration="2382000" />
+      <workItem from="1543140942471" duration="2981000" />
+      <workItem from="1543205632636" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27761000" />
+    <option name="totallyTimeSpent" value="28973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -391,6 +394,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-animation.vue" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-22-vue-better-scroll.md">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -402,6 +406,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-vue-gallery.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -421,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6380">
-          <caret line="256" column="592" selection-start-line="256" selection-start-column="592" selection-end-line="256" selection-end-column="592" />
+        <state relative-caret-position="7511">
+          <caret line="285" column="443" selection-start-line="285" selection-start-column="443" selection-end-line="285" selection-end-column="443" />
         </state>
       </provider>
     </entry>
@@ -440,17 +451,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-23-vue-gallery.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-animation.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="261">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -461,10 +465,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-25-vue-animation.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-26-docker-redis.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-26-vue-online.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
